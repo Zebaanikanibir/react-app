@@ -38,13 +38,17 @@ margin-bottom: 20px;
     display: flex;
    align-items: center; 
 margin-left: 30px;
-   margin-top:40px;
+   margin-top:10px;
    
 }
+
+
+
+
 .line1{
     border: 2px solid #3A72B7;
-    height:29px;
-    width: 28px;
+    height:35px;
+    width: 34px;
     border-radius:5px;
 
 }
@@ -54,7 +58,8 @@ margin-left: 30px;
 }
 .para{
     margin-top: 13px;
-    margin-left: 30px;
+    margin-left: 25px;
+    font-size: 18px;
     color:#3A72B7 ;
 }
 
@@ -94,6 +99,7 @@ color: #3A72B7;
 .checkBtn{
 font-size: 20px;
 color: #3A72B7;
+margin-top: 5px;
 float: right;
 display:none;
 }
