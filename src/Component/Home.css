@@ -29,7 +29,11 @@ margin-bottom: 20px;
 .box1 p{
     margin-top:10px;
     color:#3A72B7;
-    font-weight: 700;
+    font-weight: 500;
+    font-size: 17px;
+    text-align: start;
+    margin-left: 15px;
+    width: 90%;
 }
 
 
@@ -55,11 +59,14 @@ margin-left: 25px;
 .line1 p{
     color:#3A72B7 ;
     font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
 }
 .para{
     margin-top: 13px;
     margin-left: 25px;
-    font-size: 18px;
+    font-size: 17px;
+    line-height: 20px;
     color:#3A72B7 ;
 }
 
