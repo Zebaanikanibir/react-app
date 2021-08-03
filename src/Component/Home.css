@@ -10,7 +10,7 @@
 
 .logo2{
     margin-left: 140px;
-    position: fixed;
+    position: absolute;
     top:22px;
     color:rgb(248, 121, 121);
 }
