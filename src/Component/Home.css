@@ -61,6 +61,7 @@ margin-left: 25px;
     font-weight: 700;
     font-size: 17px;
     line-height: 20px;
+    margin-top: 5px;
 }
 .para{
     margin-top: 13px;
@@ -106,7 +107,7 @@ color: #3A72B7;
 .checkBtn{
 font-size: 20px;
 color: #3A72B7;
-margin-top: 5px;
+margin-top: 2px;
 float: right;
 display:none;
 }
